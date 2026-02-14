@@ -87,8 +87,8 @@ const App = () => {
           <div className="relative hidden md:block h-[600px] w-full">
             <div className="absolute right-0 top-1/2 -translate-y-1/2 w-4/5 h-full bg-slate-800 rounded-tl-[100px] overflow-hidden border-4 border-slate-700 shadow-2xl">
               <img
-                src="https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80"
-                alt="Mulher executiva representando liderança"
+                src="https://genestudio.site/wp-content/uploads/2026/02/1.jpg"
+                alt="Marta Jesan - Liderança e Posicionamento"
                 className="w-full h-full object-cover opacity-90 hover:scale-105 transition-transform duration-700"
               />
             </div>
@@ -172,7 +172,7 @@ const App = () => {
             <div className="w-full md:w-1/2 relative">
               <div className="absolute -top-10 -left-10 w-40 h-40 bg-amber-100 rounded-full blur-3xl opacity-50"></div>
               <img
-                src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80"
+                src="https://genestudio.site/wp-content/uploads/2026/02/1.jpg"
                 alt="Marta Jesan"
                 className="relative rounded-lg shadow-xl w-full object-cover h-[500px] grayscale hover:grayscale-0 transition-all duration-500"
               />
